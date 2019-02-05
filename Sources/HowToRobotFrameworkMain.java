@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class HowToSeleniumMain {
+public class HowToRobotFrameworkMain {
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver",
                 "Libraries\\chromedriver_win32\\chromedriver.exe");
